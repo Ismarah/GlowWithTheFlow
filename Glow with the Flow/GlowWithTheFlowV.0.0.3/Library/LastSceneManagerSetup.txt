@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/_Dateien/Unity/CarpeHorrificus/CarpeHorrificus/Carpe_Horrificus/Assets/_Scenes/Room1.unity
+  isLoaded: 1
+  isActive: 1
